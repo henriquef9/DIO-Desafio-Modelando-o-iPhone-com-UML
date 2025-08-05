@@ -1,2 +1,5 @@
-# DIO-Desafio-Modelando-o-iPhone-com-UML
+# DIO Desafio 
 Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
+
+Diagrama UML:
+
